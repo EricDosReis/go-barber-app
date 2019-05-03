@@ -82,3 +82,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# temp files
+tmp/*
+!tmp/.gitkeep
+tmp/uploads/*
+!tmp/uploads/.gitkeep

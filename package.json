@@ -11,10 +11,17 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.17.2",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "sequelize-cli": "^5.4.0"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-loki": "^1.1.0",
     "express": "^4.16.4",
-    "nunjucks": "^3.2.0"
+    "express-session": "^1.16.1",
+    "multer": "^1.4.1",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.10.0",
+    "sequelize": "^5.8.2"
   }
 }
