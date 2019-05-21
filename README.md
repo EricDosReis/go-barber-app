@@ -1,6 +1,6 @@
 # Running instructions
 
-**Prerequisites**: NodeJS, Postgres installed or running in a docker container.
+**Prerequisites**: NodeJS, Postgres installed or running in a Docker container.
 
 * open terminal
 * clone this repository `git clone https://github.com/EricDosReis/go-barber-app.git`
